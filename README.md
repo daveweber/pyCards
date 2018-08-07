@@ -1,2 +1,2 @@
 # pyCards
-Working with cards and card games in Python
+Working with cards and decks in Python
